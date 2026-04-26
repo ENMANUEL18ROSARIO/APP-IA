@@ -1,0 +1,14 @@
+{
+  "name": "gemini-ia-v2",
+  "version": "1.0.0",
+  "description": "IA Chat Multimodal Cyberpunk",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDepencencies": {
+    "vite": "^5.0.0"
+  }
+}
