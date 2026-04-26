@@ -55,7 +55,7 @@ const btnDownloadSession= document.getElementById('btn-download-session');
 const clearMemoryBtn    = document.getElementById('clear-btn');
 
 function initApp() {
-    renderHistorySidebar();
+    // renderHistorySidebar();
     modelStatus.innerHTML = `<i class='fa-solid fa-microchip'></i> LINK: ${selectedModel}`;
     updateAudioBtnStyle();
     createModelSelector();
